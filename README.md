@@ -1,3 +1,3 @@
 # Painel de Frases
-- Painel de frases motivaicionais
+- Gerador de frases motivaicionais
 - Feito com HTML, CSS e JS
