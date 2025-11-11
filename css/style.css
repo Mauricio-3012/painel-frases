@@ -40,7 +40,7 @@ button:hover {
     background-color: rgb(36, 150, 55);
 }
 footer {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
   text-align: center;
